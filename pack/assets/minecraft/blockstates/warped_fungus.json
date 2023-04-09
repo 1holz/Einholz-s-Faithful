@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "": [
+        {"model": "minecraft:block/warped_fungus", 	        "weight": 3},
+        {"model": "minecraft:block/warped_fungus", "y": 90, "weight": 3},
+        {"model": "minecraft:block/warped_fungus", "y": 180,"weight": 3},
+        {"model": "minecraft:block/warped_fungus", "y": 270,"weight": 3},
+
+        {"model": "minecraft:block/warped_fungus_2", 	        "weight": 3},
+        {"model": "minecraft:block/warped_fungus_2", "y": 90, "weight": 3},
+        {"model": "minecraft:block/warped_fungus_2", "y": 180,"weight": 3},
+        {"model": "minecraft:block/warped_fungus_2", "y": 270,"weight": 3},
+
+        {"model": "minecraft:block/warped_fungus_cluster", 	        "weight": 5},
+        {"model": "minecraft:block/warped_fungus_cluster", "y": 90, "weight": 5},
+        {"model": "minecraft:block/warped_fungus_cluster", "y": 180,"weight": 5},
+        {"model": "minecraft:block/warped_fungus_cluster", "y": 270,"weight": 5},
+
+        {"model": "minecraft:block/warped_fungus_cluster_2", 	        "weight": 5},
+        {"model": "minecraft:block/warped_fungus_cluster_2", "y": 90, "weight": 5},
+        {"model": "minecraft:block/warped_fungus_cluster_2", "y": 180,"weight": 5},
+        {"model": "minecraft:block/warped_fungus_cluster_2", "y": 270,"weight": 5}
+    ]
+  }
+}

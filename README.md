@@ -1,2 +1,3 @@
 # Einholz-s-Faithful
-A personal collection of Faithful addons
+
+A personal compilation of Faithful addons
