@@ -12,6 +12,8 @@ Includes the following Faithful Addons:
 
 - Varied 3D Mushrooms by Woofersoots (https://www.faithfulpack.net/addons/MushroomsPlus)
 
+- 3D Redstone Torches by Hozz (https://www.faithfulpack.net/addons/BetterRedstoneTorches)
+
 Unless otherwise mentioned textures originate from the Faithful resource pack:
 
 Looking for our license? You can find it here: https://faithfulpack.net/license
