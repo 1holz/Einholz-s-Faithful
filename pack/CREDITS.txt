@@ -1,0 +1,28 @@
+My (Einholz | https://github.com/Albert-Einholz) own work is licensed under the Apache License 2.0
+
+Changes:
+
+- pack.png changed to the face of the red mooshroom from Faithful (https://faithfulpack.net/faithful32x/latest)
+
+Includes the following Faithful Addons:
+
+- Red Crimson Color by Cubihead (https://www.faithfulpack.net/addons/red-crimson-color)
+
+- 2D Bed Icons by Cituation (https://www.faithfulpack.net/addons/2d-bed-icons)
+
+Unless otherwise mentioned textures originate from the Faithful resource pack:
+
+Looking for our license? You can find it here: https://faithfulpack.net/license
+
+Faithful 32x links:
+- Website: https://faithfulpack.net/
+- Add-ons: https://faithfulpack.net/addons#/
+- Discord: https://discord.gg/sN9YRQbBv7
+- Twitter: https://twitter.com/FaithfulPack
+- Github: https://github.com/Faithful-Resource-Pack
+
+Other Faithful projects:
+- Faithful 64x: https://faithfulpack.net/faithful64x/latest
+- Faithful Tweaks: soon on https://faithfulpack.net/tweaks
+- Faithful Mods: https://faithfulpack.net/mods
+- Faithful Dungeons: https://faithfulpack.net/faithful32xDungeons/latest
