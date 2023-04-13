@@ -6,6 +6,7 @@ My Changes:
 - amethyst_cluster.png.mcmeta formatting improved
 - made diamond stuff more blue
 - kept pages of the entablementtable book from the original faithful, which whould have been changed by Brown Leather
+- bow charging colored
 
 Incorporates the following Faithful Addons:
 
