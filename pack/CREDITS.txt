@@ -32,7 +32,8 @@ Incorporates the following Faithful Addons:
 - Dynamic Redstone Ore by Pythagoras_314 (https://faithfulpack.net/addons/better-redstone-ore)
 - Gilded Blackstone Top by Pythagoras_314 and Meh!#1167 (https://faithfulpack.net/addons/GildedBlackstoneTop)
 - Natural Tools by FedowFAN (https://faithfulpack.net/addons/better-natural-tools)
-- Nicer Fast Leaves by Monke (https://www.faithfulpack.net/addons/NicerFastLeaves)
+- Nicer Fast Leaves by Monke (https://faithfulpack.net/addons/NicerFastLeaves)
+- Not Impactful Low Fire by HARYA_ (https://faithfulpack.net/addons/NotImpactfulLowFire)
 
 Unless otherwise mentioned textures originate from the Faithful resource pack:
 
