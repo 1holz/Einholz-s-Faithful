@@ -17,6 +17,7 @@ Incorporates the following Faithful Addons:
 - Animated Amethyst Clusters by Hozz (https://www.faithfulpack.net/addons/AnimatedAmethystClusters)
 - Blue Ancient Debris by HolographicWings (https://www.faithfulpack.net/addons/BlueAncientDebris)
 - Brown Leather by COPY_CANCEL (https://www.faithfulpack.net/addons/brown-leather)
+- Chiseled Deepslate Warden by COPY_CANCEL (https://www.faithfulpack.net/addons/ChiseledDeepslateWarden)
 
 Unless otherwise mentioned textures originate from the Faithful resource pack:
 
