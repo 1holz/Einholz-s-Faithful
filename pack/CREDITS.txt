@@ -3,8 +3,9 @@ My (Einholz | https://github.com/Albert-Einholz) own work is licensed under the 
 My Changes:
 
 - pack.png changed to the face of the red mooshroom from Faithful (https://faithfulpack.net/faithful32x/latest)
-- amethyst_cluster.png.mcmeta formatting imporved
+- amethyst_cluster.png.mcmeta formatting improved
 - made diamond stuff more blue
+- kept pages of the entablementtable book from the original faithful, which whould have been changed by Brown Leather
 
 Incorporates the following Faithful Addons:
 
@@ -15,6 +16,7 @@ Incorporates the following Faithful Addons:
 - Accurate Scaffold by COPY_CANCEL (https://www.faithfulpack.net/addons/AccurateScaffold)
 - Animated Amethyst Clusters by Hozz (https://www.faithfulpack.net/addons/AnimatedAmethystClusters)
 - Blue Ancient Debris by HolographicWings (https://www.faithfulpack.net/addons/BlueAncientDebris)
+- Brown Leather by COPY_CANCEL (https://www.faithfulpack.net/addons/brown-leather)
 
 Unless otherwise mentioned textures originate from the Faithful resource pack:
 
