@@ -19,18 +19,20 @@ My Changes:
 
 Incorporates the following Faithful Addons:
 
-- Red Crimson Color by Cubihead (https://www.faithfulpack.net/addons/red-crimson-color)
-- 2D Bed Icons by Cituation (https://www.faithfulpack.net/addons/2d-bed-icons)
-- Varied 3D Mushrooms by Woofersoots (https://www.faithfulpack.net/addons/MushroomsPlus)
-- 3D Redstone Torches by Hozz (https://www.faithfulpack.net/addons/BetterRedstoneTorches)
-- Accurate Scaffold by COPY_CANCEL (https://www.faithfulpack.net/addons/AccurateScaffold)
-- Animated Amethyst Clusters by Hozz (https://www.faithfulpack.net/addons/AnimatedAmethystClusters)
-- Blue Ancient Debris by HolographicWings (https://www.faithfulpack.net/addons/BlueAncientDebris)
-- Brown Leather by COPY_CANCEL (https://www.faithfulpack.net/addons/brown-leather)
-- Chiseled Deepslate Warden by COPY_CANCEL (https://www.faithfulpack.net/addons/ChiseledDeepslateWarden)
-- Drooping Moss Carpet by Reia AKA AlmightyDustpan (https://www.planetminecraft.com/texture-pack/moss-carpet/)
-- Dynamic Redstone Ore by Pythagoras_314 (https://www.faithfulpack.net/addons/better-redstone-ore)
-- Gilded Blackstone Top by Pythagoras_314 and Meh!#1167 (https://www.faithfulpack.net/addons/GildedBlackstoneTop)
+- Red Crimson Color by Cubihead (https://faithfulpack.net/addons/red-crimson-color)
+- 2D Bed Icons by Cituation (https://faithfulpack.net/addons/2d-bed-icons)
+- Varied 3D Mushrooms by Woofersoots (https://faithfulpack.net/addons/MushroomsPlus)
+- 3D Redstone Torches by Hozz (https://faithfulpack.net/addons/BetterRedstoneTorches)
+- Accurate Scaffold by COPY_CANCEL (https://faithfulpack.net/addons/AccurateScaffold)
+- Animated Amethyst Clusters by Hozz (https://faithfulpack.net/addons/AnimatedAmethystClusters)
+- Blue Ancient Debris by HolographicWings (https://faithfulpack.net/addons/BlueAncientDebris)
+- Brown Leather by COPY_CANCEL (https://faithfulpack.net/addons/brown-leather)
+- Chiseled Deepslate Warden by COPY_CANCEL (https://faithfulpack.net/addons/ChiseledDeepslateWarden)
+- Drooping Moss Carpet by Reia AKA AlmightyDustpan (https://planetminecraft.com/texture-pack/moss-carpet/)
+- Dynamic Redstone Ore by Pythagoras_314 (https://faithfulpack.net/addons/better-redstone-ore)
+- Gilded Blackstone Top by Pythagoras_314 and Meh!#1167 (https://faithfulpack.net/addons/GildedBlackstoneTop)
+- Natural Tools by FedowFAN (https://faithfulpack.net/addons/better-natural-tools)
+- Nicer Fast Leaves by Monke (https://www.faithfulpack.net/addons/NicerFastLeaves)
 
 Unless otherwise mentioned textures originate from the Faithful resource pack:
 
