@@ -10,6 +10,7 @@ My Changes:
 - made caerbannog easier to distinguish from the white rabbit
 - redstone_ore_off.png edited to represent correct stone texture
 - changed files that were not using indexed colors to using indexed colors
+- renamed blackstone.json to gilded_blackstone.json since Gilded Blackstone Top whould affect the wrong block otherwise
 
 Incorporates the following Faithful Addons:
 
@@ -23,7 +24,8 @@ Incorporates the following Faithful Addons:
 - Brown Leather by COPY_CANCEL (https://www.faithfulpack.net/addons/brown-leather)
 - Chiseled Deepslate Warden by COPY_CANCEL (https://www.faithfulpack.net/addons/ChiseledDeepslateWarden)
 - Drooping Moss Carpet by Reia AKA AlmightyDustpan (https://www.planetminecraft.com/texture-pack/moss-carpet/)
-- Dynamic Redstone Ore by Pythagoras_314 (https://www.faithfulpack.net/addons/better-redstone-ore) 
+- Dynamic Redstone Ore by Pythagoras_314 (https://www.faithfulpack.net/addons/better-redstone-ore)
+- Gilded Blackstone Top by Pythagoras_314 and Meh!#1167 (https://www.faithfulpack.net/addons/GildedBlackstoneTop)
 
 Unless otherwise mentioned textures originate from the Faithful resource pack:
 
