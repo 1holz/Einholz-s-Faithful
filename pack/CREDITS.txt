@@ -9,6 +9,7 @@ My Changes:
 - bow charging colored
 - made caerbannog easier to distinguish from the white rabbit
 - redstone_ore_off.png edited to represent correct stone texture
+- added deepslate variant of dynamic redstone
 - changed files that were not using indexed colors to using indexed colors
 - renamed blackstone.json to gilded_blackstone.json since Gilded Blackstone Top whould affect the wrong block otherwise
 - changed crosshair to a plus dot crosshair
@@ -16,6 +17,7 @@ My Changes:
 - added color to the ping indicator
 - removed blood from the hotbar weapon charge indicator
 - colored standard galactic alphabet particles
+- added ore borders for coal, copper, iron, redstone, lapis lazuli, quartz, diamond, gold, budded amethyst, emerald
 
 Incorporates the following Faithful Addons:
 
