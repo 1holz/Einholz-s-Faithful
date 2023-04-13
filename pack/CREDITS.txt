@@ -12,7 +12,7 @@ My Changes:
 - changed files that were not using indexed colors to using indexed colors
 - renamed blackstone.json to gilded_blackstone.json since Gilded Blackstone Top whould affect the wrong block otherwise
 - changed crosshair to a plus dot crosshair
-- made wither hearts more visible
+- made wither hearts blue to make them more visible
 - added color to the ping indicator
 - removed blood from the hotbar weapon charge indicator
 - colored standard galactic alphabet particles
