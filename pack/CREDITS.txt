@@ -36,6 +36,7 @@ Incorporates the following Faithful Addons:
 - Natural Tools by FedowFAN (https://faithfulpack.net/addons/better-natural-tools)
 - Nicer Fast Leaves by Monke (https://faithfulpack.net/addons/NicerFastLeaves)
 - Not Impactful Low Fire by HARYA_ (https://faithfulpack.net/addons/NotImpactfulLowFire)
+- Splash Experience Bottle by outiser(https://github.com/Mono826/Addons/tree/master/32x/Splash%20Experience%20Bottle)
 
 Unless otherwise mentioned textures originate from the Faithful resource pack:
 
