@@ -20,6 +20,7 @@ Incorporates the following Faithful Addons:
 - Blue Ancient Debris by HolographicWings (https://www.faithfulpack.net/addons/BlueAncientDebris)
 - Brown Leather by COPY_CANCEL (https://www.faithfulpack.net/addons/brown-leather)
 - Chiseled Deepslate Warden by COPY_CANCEL (https://www.faithfulpack.net/addons/ChiseledDeepslateWarden)
+- Drooping Moss Carpet by Reia AKA AlmightyDustpan (https://www.planetminecraft.com/texture-pack/moss-carpet/)
 
 Unless otherwise mentioned textures originate from the Faithful resource pack:
 
