@@ -24,6 +24,8 @@ My Changes:
 - rotated iron_nugget.png by 1/2 pi clockwise to match gold_nugget.png
 - made powder snow easier to distinguish from normal snow
 - rotated melon_slice.png by 1/2 pi clockwise to match glistering_melon_slice.png
+- makes all buckets the same height
+- fixes inconsistent shading of axolotl_bucket.png
 
 Incorporates the following Faithful Addons:
 
@@ -44,6 +46,7 @@ Incorporates the following Faithful Addons:
 - Not Impactful Low Fire by HARYA_ (https://faithfulpack.net/addons/NotImpactfulLowFire)
 - Splash Experience Bottle by outiser (https://github.com/Mono826/Addons/tree/master/32x/Splash%20Experience%20Bottle)
 - Silverfish Detector by Juknum (https://faithfulpack.net/addons/silverfish-detector)
+- 2D Discs by pr_ib (https://www.faithfulpack.net/addons/2DDiscs)
 
 Unless otherwise mentioned textures originate from the Faithful resource pack:
 
