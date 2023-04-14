@@ -5,13 +5,13 @@ My Changes:
 - pack.png changed to the face of the red mooshroom from Faithful (https://faithfulpack.net/faithful32x/latest)
 - amethyst_cluster.png.mcmeta formatting improved
 - made diamond stuff more blue
-- kept pages of the entablementtable book from the original faithful, which whould have been changed by Brown Leather
+- kept pages of the enchantment table book from the original faithful, which whould have been changed by Brown Leather
 - bow charging colored
 - made caerbannog easier to distinguish from the white rabbit
 - redstone_ore_off.png edited to represent correct stone texture
 - added deepslate variant of dynamic redstone
 - changed files that were not using indexed colors to using indexed colors
-- renamed blackstone.json to gilded_blackstone.json since Gilded Blackstone Top whould affect the wrong block otherwise
+- renamed blackstone.json to gilded_blackstone.json since Gilded Blackstone Top would affect the wrong block otherwise
 - changed crosshair to a plus dot crosshair
 - made wither hearts blue to make them more visible
 - added color to the ping indicator
@@ -21,6 +21,7 @@ My Changes:
 - shortened swords
 - removed stuff that depends on mods
 - changed infested.png to match powder_snow.png
+- rotated iron_nugget.png by 1/2 pi clockwise
 
 Incorporates the following Faithful Addons:
 
