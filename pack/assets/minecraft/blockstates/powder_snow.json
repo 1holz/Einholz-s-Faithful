@@ -1,0 +1,7 @@
+{
+	"multipart":
+	[
+		{	"apply": { "model":"block/powder_snow"}},
+		{	"apply": { "model":"block/infested" }}
+	]
+}

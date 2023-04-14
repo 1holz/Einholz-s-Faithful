@@ -3,14 +3,14 @@ My (Einholz | https://github.com/Albert-Einholz) own work is licensed under the 
 My Changes:
 
 - pack.png changed to the face of the red mooshroom from Faithful (https://faithfulpack.net/faithful32x/latest)
-- json formatting improvements
+- amethyst_cluster.png.mcmeta formatting improved
 - made diamond stuff more blue
-- kept pages of the enchantment table book from the original faithful, which would have been changed by Brown Leather
+- kept pages of the enchantment table book from the original faithful, which whould have been changed by Brown Leather
 - bow charging colored
 - made caerbannog easier to distinguish from the white rabbit
 - redstone_ore_off.png edited to represent correct stone texture
-- added deepslate variant of dynamic redstone ore
-- changed some files that were not using indexed colors to using indexed colors
+- added deepslate variant of dynamic redstone
+- changed files that were not using indexed colors to using indexed colors
 - renamed blackstone.json to gilded_blackstone.json since Gilded Blackstone Top would affect the wrong block otherwise
 - changed crosshair to a plus dot crosshair
 - made wither hearts blue to make them more visible
@@ -20,10 +20,8 @@ My Changes:
 - added ore borders for coal, copper, iron, redstone, lapis lazuli, quartz, diamond, gold, budded amethyst, emerald
 - shortened swords
 - removed stuff that depends on mods
-- changed infested.png
-- rotated iron_nugget.png by 1/2 pi clockwise to match gold_nugget.png
-- made powder snow easier to distinguish from normal snow
-- rotated melon_slice.png by 1/2 pi clockwise to match glistering_melon_slice.png
+- changed infested.png to match powder_snow.png
+- rotated iron_nugget.png by 1/2 pi clockwise
 
 Incorporates the following Faithful Addons:
 
@@ -43,6 +41,7 @@ Incorporates the following Faithful Addons:
 - Nicer Fast Leaves by Monke (https://faithfulpack.net/addons/NicerFastLeaves)
 - Not Impactful Low Fire by HARYA_ (https://faithfulpack.net/addons/NotImpactfulLowFire)
 - Splash Experience Bottle by outiser (https://github.com/Mono826/Addons/tree/master/32x/Splash%20Experience%20Bottle)
+- Powder Snow Detector by hedach761 (https://faithfulpack.net/addons/PowderSnowDetector)
 - Silverfish Detector by Juknum (https://faithfulpack.net/addons/silverfish-detector)
 
 Unless otherwise mentioned textures originate from the Faithful resource pack:
