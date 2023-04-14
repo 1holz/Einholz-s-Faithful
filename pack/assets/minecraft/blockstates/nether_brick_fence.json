@@ -1,0 +1,16 @@
+{"multipart":
+
+[{"apply":
+{"model":"block/fence/post/nether_brick"}},
+
+{"when":{"north":"true"},"apply":
+{"model":"block/fence/side/nether_brick"}},
+
+{"when":{"east":"true"},"apply":
+{"model":"block/fence/side/nether_brick","y":90}},
+
+{"when":{"south":"true"},"apply":
+{"model":"block/fence/side_inverted/nether_brick","y":180}},
+
+{"when":{"west":"true"},"apply":
+{"model":"block/fence/side_inverted/nether_brick","y":270}}]}

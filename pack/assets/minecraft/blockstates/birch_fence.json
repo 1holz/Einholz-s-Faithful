@@ -1,0 +1,16 @@
+{"multipart":
+
+[{"apply":
+{"model":"block/fence/post/birch"}},
+
+{"when":{"north":"true"},"apply":
+{"model":"block/fence/side/birch"}},
+
+{"when":{"east":"true"},"apply":
+{"model":"block/fence/side/birch","y":90}},
+
+{"when":{"south":"true"},"apply":
+{"model":"block/fence/side_inverted/birch","y":180}},
+
+{"when":{"west":"true"},"apply":
+{"model":"block/fence/side_inverted/birch","y":270}}]}

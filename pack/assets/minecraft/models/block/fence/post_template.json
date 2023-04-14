@@ -1,0 +1,82 @@
+{
+	"credit": "Made with Blockbench by alkatreize",
+	"texture_size": [64, 64],
+	"elements": [
+		{
+			"name": "Center post",
+			"from": [6, 0, 6],
+			"to": [10, 15.5, 10],
+			"faces": {
+				"north": {"uv": [0, 0.25, 2, 8], "texture": "#texture"},
+				"east": {"uv": [6, 0.25, 8, 8], "texture": "#texture"},
+				"south": {"uv": [4, 0.25, 6, 8], "texture": "#texture"},
+				"west": {"uv": [2, 0.25, 4, 8], "texture": "#texture"},
+				"down": {"uv": [8, 0, 10, 2], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Center post",
+			"from": [6.5, 15.75, 6.5],
+			"to": [9.5, 15.75, 9.5],
+			"faces": {
+				"up": {"uv": [8.25, 0.25, 9.75, 1.75], "texture": "#texture", "cullface": "up"}
+			}
+		},
+		{
+			"name": "Center post top",
+			"from": [6.5, 15.5, 6],
+			"to": [9.5, 16, 6.5],
+			"faces": {
+				"north": {"uv": [0.25, 0, 1.75, 0.25], "texture": "#texture"},
+				"south": {"uv": [8.25, 0, 9.75, 0.25], "texture": "#texture"},
+				"up": {"uv": [8.25, 0, 9.75, 0.25], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Center post top",
+			"from": [9.5, 15.5, 6],
+			"to": [10, 16, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 0.25, 0.25], "texture": "#texture"},
+				"east": {"uv": [6, 0, 8, 0.25], "texture": "#texture"},
+				"south": {"uv": [5.75, 0, 6, 0.25], "texture": "#texture"},
+				"west": {"uv": [9.75, 0, 10, 2], "rotation": 270, "texture": "#texture"},
+				"up": {"uv": [9.75, 0, 10, 2], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Center post top",
+			"from": [6.5, 15.5, 9.5],
+			"to": [9.5, 16, 10],
+			"faces": {
+				"north": {"uv": [8.25, 1.75, 9.75, 2], "rotation": 180, "texture": "#texture"},
+				"south": {"uv": [4.25, 0, 5.75, 0.25], "texture": "#texture"},
+				"up": {"uv": [8.25, 1.75, 9.75, 2], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Center post top",
+			"from": [6, 15.5, 6],
+			"to": [6.5, 16, 10],
+			"faces": {
+				"north": {"uv": [1.75, 0, 2, 0.25], "texture": "#texture"},
+				"east": {"uv": [8, 0, 8.25, 2], "rotation": 90, "texture": "#texture"},
+				"south": {"uv": [4, 0, 4.25, 0.25], "texture": "#texture"},
+				"west": {"uv": [2, 0, 4, 0.25], "texture": "#texture"},
+				"up": {"uv": [8, 0, 8.25, 2], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Center post bottom",
+			"from": [6.5, -0.25, 6.5],
+			"to": [9.5, 0, 9.5],
+			"faces": {
+				"north": {"uv": [8.25, 1.5, 9.75, 1.75], "texture": "#texture", "cullface": "down"},
+				"east": {"uv": [9.5, 0.25, 9.75, 1.75], "rotation": 270, "texture": "#texture", "cullface": "down"},
+				"south": {"uv": [8.25, 0.25, 9.75, 0.5], "texture": "#texture", "cullface": "down"},
+				"west": {"uv": [8.25, 0.25, 8.5, 1.75], "rotation": 90, "texture": "#texture", "cullface": "down"},
+				"down": {"uv": [8.25, 0.25, 9.75, 1.75], "texture": "#texture", "cullface": "down"}
+			}
+		}
+	]
+}
