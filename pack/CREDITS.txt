@@ -47,6 +47,7 @@ Incorporates the following Faithful Addons:
 - Splash Experience Bottle by outiser (https://github.com/Mono826/Addons/tree/master/32x/Splash%20Experience%20Bottle)
 - Silverfish Detector by Juknum (https://faithfulpack.net/addons/silverfish-detector)
 - 2D Discs by pr_ib (https://www.faithfulpack.net/addons/2DDiscs)
+- Visual Banner Pattern Items by Hozz (https://faithfulpack.net/addons/VisualBannerPatternItems)
 
 Unless otherwise mentioned textures originate from the Faithful resource pack:
 
