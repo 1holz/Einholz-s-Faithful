@@ -1,0 +1,16 @@
+{"multipart":
+
+[{"apply":
+{"model":"block/fence/post/warped"}},
+
+{"when":{"north":"true"},"apply":
+{"model":"block/fence/side/warped"}},
+
+{"when":{"east":"true"},"apply":
+{"model":"block/fence/side/warped","y":90}},
+
+{"when":{"south":"true"},"apply":
+{"model":"block/fence/side_inverted/warped","y":180}},
+
+{"when":{"west":"true"},"apply":
+{"model":"block/fence/side_inverted/warped","y":270}}]}

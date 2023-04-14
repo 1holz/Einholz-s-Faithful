@@ -1,0 +1,16 @@
+{"multipart":
+
+[{"apply":
+{"model":"block/fence/post/spruce"}},
+
+{"when":{"north":"true"},"apply":
+{"model":"block/fence/side/spruce"}},
+
+{"when":{"east":"true"},"apply":
+{"model":"block/fence/side/spruce","y":90}},
+
+{"when":{"south":"true"},"apply":
+{"model":"block/fence/side_inverted/spruce","y":180}},
+
+{"when":{"west":"true"},"apply":
+{"model":"block/fence/side_inverted/spruce","y":270}}]}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence/post_template",
+  "textures": {
+    "texture": "block/fence/dark_oak",
+		"particle": "break/fence/dark_oak"
+  }
+}

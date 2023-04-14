@@ -1,0 +1,16 @@
+{"multipart":
+
+[{"apply":
+{"model":"block/fence/post/mangrove"}},
+
+{"when":{"north":"true"},"apply":
+{"model":"block/fence/side/mangrove"}},
+
+{"when":{"east":"true"},"apply":
+{"model":"block/fence/side/mangrove","y":90}},
+
+{"when":{"south":"true"},"apply":
+{"model":"block/fence/side_inverted/mangrove","y":180}},
+
+{"when":{"west":"true"},"apply":
+{"model":"block/fence/side_inverted/mangrove","y":270}}]}
