@@ -18,6 +18,7 @@ My Changes:
 - removed blood from the hotbar weapon charge indicator
 - colored standard galactic alphabet particles
 - added ore borders for coal, copper, iron, redstone, lapis lazuli, quartz, diamond, gold, budded amethyst, emerald
+- shortened swords
 
 Incorporates the following Faithful Addons:
 
