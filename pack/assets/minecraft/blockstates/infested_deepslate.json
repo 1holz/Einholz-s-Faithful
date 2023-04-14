@@ -1,0 +1,7 @@
+{
+	"multipart":
+	[
+		{	"apply": { "model":"block/deepslate"}},
+		{	"apply": { "model":"block/infested" }}
+	]
+}

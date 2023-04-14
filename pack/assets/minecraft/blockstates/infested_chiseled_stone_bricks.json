@@ -1,0 +1,7 @@
+{
+	"multipart":
+	[
+		{	"apply": { "model":"block/chiseled_stone_bricks"}},
+		{	"apply": { "model":"block/infested" }}
+	]
+}

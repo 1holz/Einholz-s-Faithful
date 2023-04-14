@@ -1,0 +1,7 @@
+{
+	"multipart":
+	[
+		{	"apply": { "model":"block/cobblestone"}},
+		{	"apply": { "model":"block/infested" }}
+	]
+}
