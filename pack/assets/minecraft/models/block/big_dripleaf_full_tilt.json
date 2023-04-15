@@ -1,0 +1,93 @@
+{
+	"credit": "Made with Blockbench by Einholz (https://github.com/Albert-Einholz)",
+	"parent": "block/block",
+	"textures": {
+		"particle": "block/big_dripleaf_top",
+		"top": "block/big_dripleaf_top",
+		"stem": "block/big_dripleaf_stem",
+		"side": "block/big_dripleaf_side",
+		"tip": "block/big_dripleaf_tip"
+	},
+	"elements": [
+		{
+			"name": "top",
+			"from": [0, 15, 0],
+			"to": [16, 15, 16],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 15, 16]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top"},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#top"}
+			}
+		},
+		{
+			"name": "tip",
+			"from": [0, -0.25, 4.6599],
+			"to": [16, 3.75, 4.6599],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 3.75, 4.75]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 4], "texture": "#tip"},
+				"south": {"uv": [0, 0, 16, 4], "texture": "#tip"}
+			}
+		},
+		{
+			"name": "left",
+			"from": [0, 14.5, 0],
+			"to": [0.002, 15, 3],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 15, 16]},
+			"faces": {
+				"east": {"uv": [3, 0, 0, 0.5], "texture": "#side"},
+				"west": {"uv": [0, 0, 3, 0.5], "texture": "#side", "cullface": "west"}
+			}
+		},
+		{
+			"name": "right",
+			"from": [15.998, 14.5, 0],
+			"to": [16, 15, 3],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 15, 16]},
+			"faces": {
+				"east": {"uv": [3, 0, 0, 0.5], "texture": "#side", "cullface": "east"},
+				"west": {"uv": [0, 0, 3, 0.5], "texture": "#side"}
+			}
+		},
+		{
+			"name": "stem_1",
+			"from": [5, 0, 12],
+			"to": [11, 10, 12],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 12], "rescale": true},
+			"faces": {
+				"north": {"uv": [3, 6, 14, 16], "texture": "#stem"},
+				"south": {"uv": [3, 6, 14, 16], "texture": "#stem"}
+			}
+		},
+		{
+			"name": "stem_2",
+			"from": [5, 0, 12],
+			"to": [11, 10, 12],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 8, 12], "rescale": true},
+			"faces": {
+				"north": {"uv": [3, 6, 14, 16], "texture": "#stem"},
+				"south": {"uv": [3, 6, 14, 16], "texture": "#stem"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "top",
+			"origin": [8, 8, 12],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		},
+		{
+			"name": "stem",
+			"origin": [8, 8, 12],
+			"color": 0,
+			"children": [4, 5]
+		}
+	]
+}

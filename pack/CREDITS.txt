@@ -17,7 +17,7 @@ My Changes:
 - added color to the ping indicator
 - removed blood from the hotbar weapon charge indicator
 - colored standard galactic alphabet particles
-- added ore borders for coal, copper, iron, redstone, lapis lazuli, quartz, diamond, gold, budded amethyst, emerald
+- added ore borders for coal, copper, iron, redstone, lapis lazuli, quartz, diamond, gold, budded amethyst, emerald, gilded blackstone
 - shortened swords
 - removed stuff that depends on mods
 - changed infested.png
@@ -26,6 +26,8 @@ My Changes:
 - rotated melon_slice.png by 1/2 pi clockwise to match glistering_melon_slice.png
 - makes all buckets the same height
 - fixes inconsistent shading of axolotl_bucket.png
+- made trapped chests easier to distinguish from normal chests
+- improvements to model of big tilted drip leafs
 
 Incorporates the following Faithful Addons:
 

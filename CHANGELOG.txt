@@ -1,12 +1,4 @@
 Changes since last release:
-- bugfixes
-- Added 2D Discs
-- Added Visual Banner Pattern Items
-- Added Fences Overhaul
-- changed infested.png
-- rotated iron_nugget.png by 1/2 pi clockwise to match gold_nugget.png
-- made powder snow easier to distinguish from normal snow
-- rotated melon_slice.png by 1/2 pi clockwise to match glistering_melon_slice.png
-- makes all buckets the same height
-- fixes inconsistent shading of axolotl_bucket.png
-- Removed Powder Snow Detector
+- made trapped chests easier to distinguish from normal chests
+- improvements to model of big tilted drip leafs
+- added frame to gilded blackstone
