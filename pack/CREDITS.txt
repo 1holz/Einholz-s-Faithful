@@ -30,6 +30,7 @@ My Changes:
 - improvements to model of big tilted drip leafs
 - lowered mycelium, podzol, grass and dirt path
 - added particles to models that were missing particles
+- colored critical_hit.png red and enchanted_hit.png blue
 
 Incorporates the following Faithful Addons:
 
