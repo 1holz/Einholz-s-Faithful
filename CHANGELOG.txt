@@ -2,3 +2,6 @@ Changes since last release:
 - made trapped chests easier to distinguish from normal chests
 - improvements to model of big tilted drip leafs
 - added frame to gilded blackstone
+- lowered mycelium, podzol, grass and dirt path
+- fixed 3D Mushrooms
+- added proper particles to 3D fences

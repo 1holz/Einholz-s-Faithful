@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/fence/nether_bricks"
+		"0": "block/fence/nether_bricks",
+		"particle": "block/fence/nether_bricks"
 	},
 	"elements": [
 		{

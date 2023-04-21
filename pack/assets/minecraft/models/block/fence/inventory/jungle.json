@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/fence/post_template",
 	"textures": {
-		"0": "block/fence/jungle"
+		"0": "block/fence/jungle",
+		"particle": "block/fence/jungle"
 	},
 	"elements": [
 		{

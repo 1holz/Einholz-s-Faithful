@@ -28,6 +28,8 @@ My Changes:
 - fixes inconsistent shading of axolotl_bucket.png
 - made trapped chests easier to distinguish from normal chests
 - improvements to model of big tilted drip leafs
+- lowered mycelium, podzol, grass and dirt path
+- added particles to models that were missing particles
 
 Incorporates the following Faithful Addons:
 
