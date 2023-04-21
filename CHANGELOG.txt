@@ -6,3 +6,5 @@ Changes since last release:
 - fixed 3D Mushrooms
 - added proper particles to 3D fences
 - colored critical_hit.png red and enchanted_hit.png blue
+- added numbers to hotbar slots
+- made crosshair light blue
